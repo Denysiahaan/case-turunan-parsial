@@ -1,1 +1,1 @@
-python turunan-parsial.py
+python case_turunan_parsial.py
